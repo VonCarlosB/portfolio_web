@@ -6,7 +6,7 @@ Este es mi portfolio web desarrollado con **React + Vite + TailwindCSS**, donde 
 
 ## 🚀 Demo
 
-👉 [Ver portfolio en línea](urlFinal)
+👉 [Ver portfolio en línea](https://carlosborrellfortis.netlify.app/)
 
 ---
 
